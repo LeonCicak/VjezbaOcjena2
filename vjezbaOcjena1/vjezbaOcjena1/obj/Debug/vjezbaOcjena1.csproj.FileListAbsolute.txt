@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\bin\Debug\vjezbaOcjena1.exe.config
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\bin\Debug\vjezbaOcjena1.exe
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\bin\Debug\vjezbaOcjena1.pdb
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\obj\Debug\vjezbaOcjena1.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\obj\Debug\vjezbaOcjena1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\obj\Debug\vjezbaOcjena1.exe
+C:\Users\Učenik\source\repos\vjezbaOcjena1\vjezbaOcjena1\obj\Debug\vjezbaOcjena1.pdb
